@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "langchian-demos"
+version = "0.1.0"
+description = ""
+authors = ["Richard harris <richard.w.harris@mac.com>"]
+readme = "README.md"
+packages = [{include = "langchain_demos"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+langchain = "^0.0.271"
+python-dotenv = "^1.0.0"
+openai = "^0.27.9"
+pygments = "^2.16.1"
+pandas = "^2.0.3"
+graphviz = "^0.20.1"
+
+[tool.poetry.group.dev.dependencies]
+black = {extras = ["jupyter"], version = "^23.7.0"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
