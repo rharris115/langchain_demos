@@ -1,0 +1,52 @@
+[
+    {
+        "level": 1,
+        "name": "Benevolent Specter",
+        "description": "Exhibits non-threatening, socially positive behavior patterns."
+    },
+    {
+        "level": 2,
+        "name": "Auditory Manifestation",
+        "description": "Engages primarily in acoustic disturbances, evoking mild unease."
+    },
+    {
+        "level": 3,
+        "name": "Object Displacement Phenomenon",
+        "description": "Demonstrates ability for limited physical interaction, typically harmless."
+    },
+    {
+        "level": 4,
+        "name": "Thermokinetic Fluctuation",
+        "description": "Presence is associated with noticeable temperature drops and psychosomatic discomfort."
+    },
+    {
+        "level": 5,
+        "name": "Visual Entity",
+        "description": "Capable of producing visual hallucinations without direct physical interaction."
+    },
+    {
+        "level": 6,
+        "name": "Kinetic Manifestation",
+        "description": "Shows ability to interact significantly with its environment, causing observable disruptions."
+    },
+    {
+        "level": 7,
+        "name": "Aggressive Entity",
+        "description": "Exhibits hostile behavior patterns, induces psychological distress."
+    },
+    {
+        "level": 8,
+        "name": "Tactile Interaction",
+        "description": "Demonstrates capability for direct physical contact with humans, causing increased fear response."
+    },
+    {
+        "level": 9,
+        "name": "Harm-Inducing Specter",
+        "description": "Exhibits behavior causing physical harm to humans, heightening risk factors."
+    },
+    {
+        "level": 10,
+        "name": "Poltergeist Phenomenon",
+        "description": "Exhibits extreme physical interactions and potential for high-level harm or damage."
+    }
+]
