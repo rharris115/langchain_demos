@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Resolution of Unfinished Business",
+        "description": "Ghosts may need to resolve some issue or unfinished business from their life before they can move on.",
+        "code": "ROUB",
+        "required_specialisations": {
+            "THC": 5,
+            "MED": 3
+        }
+    },
+    {
+        "name": "Acceptance of Death",
+        "description": "Some ghosts may not even realize they are dead and may need to come to terms with their own death.",
+        "code": "AOD",
+        "required_specialisations": {
+            "THC": 7,
+            "MED": 4
+        }
+    },
+    {
+        "name": "Revenge or Justice",
+        "description": "In some stories, a ghost may need to see justice served or revenge taken before they can rest.",
+        "code": "ROJ",
+        "required_specialisations": {
+            "LAJ": 6,
+            "MED": 2
+        }
+    },
+    {
+        "name": "Proper Burial",
+        "description": "In many cultures, ghosts cannot move on until they receive a proper burial or funeral rites.",
+        "code": "PB",
+        "required_specialisations": {
+            "FDCW": 2,
+            "ANT": 3,
+            "MED": 2
+        }
+    },
+    {
+        "name": "Reconciliation",
+        "description": "The ghost may need to reconcile with someone they wronged in life or someone who wronged them.",
+        "code": "REC",
+        "required_specialisations": {
+            "THC": 6,
+            "MED": 3
+        }
+    },
+    {
+        "name": "Retrieval of Lost Items",
+        "description": "Sometimes, ghosts are tied to this realm due to lost or stolen items that they valued greatly.",
+        "code": "ROLI",
+        "required_specialisations": {
+            "DPI": 5,
+            "MED": 2
+        }
+    },
+    {
+        "name": "Release of Guilt",
+        "description": "Some ghosts carry intense guilt from actions they took during their life. This guilt may need to be absolved before they can move on.",
+        "code": "ROG",
+        "required_specialisations": {
+            "THC": 7,
+            "MED": 4
+        }
+    },
+    {
+        "name": "Uncovering Truth",
+        "description": "Ghosts who died under mysterious circumstances may need the truth of their death revealed.",
+        "code": "UT",
+        "required_specialisations": {
+            "DPI": 5,
+            "MED": 3
+        }
+    },
+    {
+        "name": "Protection",
+        "description": "If a ghost stayed to protect a loved one, they may need assurance that their loved one will be safe without them.",
+        "code": "PROT",
+        "required_specialisations": {
+            "SHS": 4,
+            "MED": 2
+        }
+    },
+    {
+        "name": "Exorcism",
+        "description": "In some traditions, a ghost needs to be forcefully sent to the next realm by an exorcism.",
+        "code": "EXO",
+        "required_specialisations": {
+            "SHS": 3,
+            "GB": 1,
+            "ANT": 2,
+            "MED": 2
+        }
+    },
+    {
+        "name": "Ceremony",
+        "description": "Certain cultures believe a ritual or ceremony can help a ghost move on.",
+        "code": "CER",
+        "required_specialisations": {
+            "SHS": 2,
+            "ANT": 3,
+            "MED": 2
+        }
+    },
+    {
+        "name": "Forgiveness",
+        "description": "Sometimes a ghost needs to forgive or be forgiven to move on.",
+        "code": "FORG",
+        "required_specialisations": {
+            "THC": 6,
+            "MED": 3
+        }
+    },
+    {
+        "name": "Love",
+        "description": "In some tales, the power of love can help a ghost transition to the other side.",
+        "code": "LOV",
+        "required_specialisations": {
+            "THC": 7,
+            "MED": 4
+        }
+    },
+    {
+        "name": "Passage of Time",
+        "description": "Some ghosts simply need to wait for a certain amount of time before they can move on.",
+        "code": "POT",
+        "required_specialisations": {
+            "HTS": 10,
+            "MED": 5
+        }
+    },
+    {
+        "name": "Fulfillment of a Promise",
+        "description": "Some ghosts may have made a promise in their life that they need to fulfill before they can rest.",
+        "code": "FOP",
+        "required_specialisations": {
+            "SHS": 5,
+            "MED": 3
+        }
+    }
+]

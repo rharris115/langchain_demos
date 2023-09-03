@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Therapist/Counselor",
+        "code": "THC",
+        "daily_rate": 300
+    },
+    {
+        "name": "Detective/Private Investigator",
+        "code": "DPI",
+        "daily_rate": 400
+    },
+    {
+        "name": "Lawyer/Judge",
+        "code": "LAJ",
+        "daily_rate": 500
+    },
+    {
+        "name": "Funeral Director/Cemetery Worker",
+        "code": "FDCW",
+        "daily_rate": 250
+    },
+    {
+        "name": "Spiritual Healer/Shaman",
+        "code": "SHS",
+        "daily_rate": 350
+    },
+    {
+        "name": "Historian/Time Specialist",
+        "code": "HTS",
+        "daily_rate": 200
+    },
+    {
+        "name": "Medium",
+        "code": "MED",
+        "daily_rate": 450
+    },
+    {
+        "name": "Ghostbuster",
+        "code": "GB",
+        "daily_rate": 600
+    },
+    {
+        "name": "Anthropologist",
+        "code": "ANT",
+        "daily_rate": 350
+    }
+]
