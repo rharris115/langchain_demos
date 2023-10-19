@@ -1,52 +1,52 @@
 [
     {
         "level": 1,
-        "name": "Benevolent Specter",
-        "description": "Exhibits non-threatening, socially positive behavior patterns."
+        "name": "Benevolent Apparition",
+        "description": "Exhibits positive emotional interaction, no threat posed."
     },
     {
         "level": 2,
-        "name": "Auditory Manifestation",
-        "description": "Engages primarily in acoustic disturbances, evoking mild unease."
+        "name": "Capricious Poltergeist",
+        "description": "Demonstrates minor telekinetic activities, moving objects unaided."
     },
     {
         "level": 3,
-        "name": "Object Displacement Phenomenon",
-        "description": "Demonstrates ability for limited physical interaction, typically harmless."
+        "name": "Auditory Manifestation",
+        "description": "Only detectable via sound waves, visual form unobservable."
     },
     {
         "level": 4,
-        "name": "Thermokinetic Fluctuation",
-        "description": "Presence is associated with noticeable temperature drops and psychosomatic discomfort."
+        "name": "Visual Apparition",
+        "description": "Observable spectral manifestation, no physical interaction recorded."
     },
     {
         "level": 5,
-        "name": "Visual Entity",
-        "description": "Capable of producing visual hallucinations without direct physical interaction."
+        "name": "Thermokinetic Entity",
+        "description": "Detectable via sudden decrease in ambient temperature."
     },
     {
         "level": 6,
-        "name": "Kinetic Manifestation",
-        "description": "Shows ability to interact significantly with its environment, causing observable disruptions."
+        "name": "Tracking Specter",
+        "description": "Displays consistent follow and observe behavior, inducing psychological distress."
     },
     {
         "level": 7,
-        "name": "Aggressive Entity",
-        "description": "Exhibits hostile behavior patterns, induces psychological distress."
+        "name": "Oneiric Apparition",
+        "description": "Manifests during REM sleep, causing sleep disturbances."
     },
     {
         "level": 8,
-        "name": "Tactile Interaction",
-        "description": "Demonstrates capability for direct physical contact with humans, causing increased fear response."
+        "name": "Possessive Spirit",
+        "description": "Exhibits ability to manipulate and control physical entities, including humans."
     },
     {
         "level": 9,
-        "name": "Harm-Inducing Specter",
-        "description": "Exhibits behavior causing physical harm to humans, heightening risk factors."
+        "name": "Retributive Phantom",
+        "description": "Displays aggressive behavior, caused by perceived past wrongs."
     },
     {
         "level": 10,
-        "name": "Poltergeist Phenomenon",
-        "description": "Exhibits extreme physical interactions and potential for high-level harm or damage."
+        "name": "Malevolent Entity",
+        "description": "Exhibits high-level supernatural abilities, inducing extreme fear response."
     }
 ]
